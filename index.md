@@ -1,7 +1,6 @@
 ## Bienvenidos l proyecto calidad de frutas
 este proyecto crea una herramienta visual pata impeccionar la calidad de as frutas
-
-<div>Active el modelo</div>
+<div>Determinación calidad de las frutas</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
@@ -60,11 +59,11 @@ este proyecto crea una herramienta visual pata impeccionar la calidad de as frut
         }
     }
 </script>
+
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
   chat-title="Holamundo"
   agent-id="cb7e1eac-3a75-4b00-b681-45e0e6c89e82"
   language-code="es"
 ></df-messenger>
-
 
