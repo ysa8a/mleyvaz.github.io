@@ -1,7 +1,7 @@
 ## Bienvenidos l proyecto calidad de frutas
 este proyecto crea una herramienta visual pata impeccionar la calidad de as frutas
 
-<div>Teachable Machine Image Model</div>
+<div>Active el modelo</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
